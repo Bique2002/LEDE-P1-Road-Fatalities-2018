@@ -1,0 +1,28 @@
+Vehicle Type,2017 - No. of Accidents,2017 - Persons Killed,2017 - Persons Injured,2018 - No. of Accidents,2018 - Persons Killed,2018 - Persons Injured,% Increase - No. of Accidents,% Increase - Persons Killed,% Increase - Persons Injured
+Two Wheeler,157723,44092,148907,164313,47560,153585,4.2,7.9,3.1
+% Share in Total,33.9,29.8,31.6,35.2,31.4,32.7,NA,NA,NA
+Auto Rickshaw,29351,6762,35682,27385,6624,33457,-6.7,-2,-6.2
+% Share in Total,6.3,4.6,7.6,5.9,4.4,7.1,NA,NA,NA
+Car/Jeep/Van/Taxi,113737,31183,123156,113490,30811,123517,-0.2,-1.2,0.3
+% Share in Total,24.5,21.1,26.1,24.3,20.3,26.3,NA,NA,NA
+Bus,32145,10651,44330,30746,10507,42940,-4.4,-1.4,-3.1
+% Share in Total,6.9,7.2,9.4,6.6,6.9,9.1,NA,NA,NA
+Truck/Lorry,58525,23483,52805,57441,23868,51166,-1.9,1.6,-3.1
+% Share in Total,12.6,15.9,11.2,12.3,15.8,10.9,NA,NA,NA
+Heavy Articulated Vehicle/Trolly,8432,3780,6972,9303,4167,7786,10.3,10.2,11.7
+% Share in Total,1.8,2.6,1.5,2,2.8,1.7,NA,NA,NA
+Tempo/Tractor,25861,10242,27676,23480,10203,23205,-9.2,-0.4,-16.2
+% Share in Total,5.6,6.9,5.9,5,6.7,4.9,NA,NA,NA
+E-Rickshaw,NA,NA,NA,1470,621,1361,NA,NA,NA
+% Share in Total,NA,NA,NA,0.3,0.4,0.3,NA,NA,NA
+Bicycle,4060,1741,3141,3811,1822,2666,-6.1,4.7,-15.1
+% Share in Total,0.9,1.2,0.7,0.8,1.2,0.6,NA,NA,NA
+Cycle Rickshaw,1247,590,926,891,451,701,-28.5,-23.6,-24.3
+% Share in Total,0.3,0.4,0.2,0.2,0.3,0.1,NA,NA,NA
+Hand Drawn Cart,433,187,362,355,201,209,-18,7.5,-42.3
+% Share in Total,0.1,0.1,0.1,0.1,0.1,0,NA,NA,NA
+Animal Drawn Cart,636,280,563,1155,522,692,81.6,86.4,22.9
+% Share in Total,0.1,0.2,0.1,0.2,0.3,0.1,NA,NA,NA
+Others*,32760,14922,26455,33204,14060,28133,1.4,-5.8,6.3
+% Share in Total,7,10.1,5.6,7.1,9.3,6,NA,NA,NA
+Total,464910,147913,470975,467044,151417,469418,0.5,2.4,-0.3
